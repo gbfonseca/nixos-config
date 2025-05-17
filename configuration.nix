@@ -156,6 +156,7 @@ services.flatpak.enable = true;
   android-studio
   asdf-vm
   rofi
+  gh
 ];
 
 programs.fish.enable = true;
